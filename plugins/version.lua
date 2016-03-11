@@ -3,7 +3,7 @@ do
 function run(msg, matches)
   return 'RSM_BOT v8'.. VERSION .. [[ 
  
-  Developer : @mohammad20162015
+  Developer : @mohammad20162015 // @sorblack // @sorblack_2
   
   Channel : RSM_team
   
