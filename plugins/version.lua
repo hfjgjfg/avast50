@@ -1,13 +1,13 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'RSM_BOT v8'.. VERSION .. [[ 
  
-  Developer : @arash_avast
+  Developer : @mohammad20162015
   
-  Channel : @avast_team
+  Channel : RSM_team
   
-  Open git : https://github.com/avastteam98/avast2-bot
+  Open git : 
   
   avast v2
   
@@ -17,15 +17,11 @@ end
 
 return {
   description = "Shows bot version", 
-  usage = "!version: Shows bot version",
+  usage = "!RSM: Shows bot version",
   patterns = {
-    "^!version$"
+    "^!/[Rr]sm$"
   }, 
   run = run 
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
